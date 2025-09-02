@@ -1,0 +1,18 @@
+{
+  "name": "exercises",
+  "version": "1.0.0",
+  "description": "Exercises for basic sorts",
+  "main": "bucket-sort.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/**/*.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.1"
+  }
+}
